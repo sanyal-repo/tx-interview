@@ -4,6 +4,7 @@ To install the database, download Docker and run the following command:
 ```$xslt
 docker run -p 3306:3306 --name tx-interview -e MYSQL_DATABASE=tx-interview -e MYSQL_ROOT_PASSWORD=password -d mysql:latest
 ```
+If you already have MySQL installed locally, update the configuration in `application.yml` in order for the application to recognize it.
 
 ### Challenge
 This application includes a database of financial institutions. 
@@ -26,7 +27,7 @@ For the search endpoint, please considering the following scenarios:
 Do not search the database unless the input string is at least three characters long. 
 At most, only return the ten best matches.  Please include test cases where applicable.
 
-Feel free to include any libraries that you feel will assist you with your solution.
+Feel free to update the database and/or include any libraries that you feel will assist you with your solution.
 
 ### How to Submit
 Please send us your source code by email or online repository.
