@@ -27,7 +27,7 @@ For the search endpoint, please considering the following scenarios:
 Do not search the database unless the input string is at least three characters long. 
 At most, only return the ten best matches.  Please include test cases where applicable.
 
-Feel free to update the database and/or include any libraries that you feel will assist you with your solution.
+Feel free to update the database (via Flyway migrations) and/or include any libraries (via Maven) that you feel will assist you with your solution.
 
 ### How to Submit
 Please send us your source code by email or online repository.
