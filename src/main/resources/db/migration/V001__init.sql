@@ -1702,7 +1702,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Parkside C
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Southern Federal Credit Union', 'Southern FCU - Investments (US)', 'https://members.cunamutual.com/brokernet/ssl/Pengine.asp?URL=https://brokerage.cunamutual.com/login.htm&CBSNAV=A01&Site=04214326', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Connex Credit Union', 'Connex CU - Investments (US)', 'https://members.cunamutual.com/brokernet/ssl/Pengine.asp?URL=https://brokerage.cunamutual.com/login.htm&CBSNAV=A01&Site=00607034', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('United Southeast Federal Credit Union', 'United Southeast FCU (US)', 'https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=usfcu&bn=1fb2bc2469c9a7c3&burlid=7ddc67827fb39796', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('United Teletech Federal Credit Union', 'United Teletech Financial (US)', 'https://wealth.emaplan.com/ema/SignIn?ema%2fria%2fheimyoung', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('United Teletech Federal Credit Union', 'United TeletechÂ Financial (US)', 'https://wealth.emaplan.com/ema/SignIn?ema%2fria%2fheimyoung', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Peninsula Federal Credit Union', 'Peninsula FCU - Investments (US)', 'https://members.cunamutual.com/brokernet/ssl/Pengine.asp?URL=https://brokerage.cunamutual.com/login.htm&CBSNAV=A01&Site=02102537', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Penn East FCU', 'Penn East FCU - Investments (US)', 'https://members.cunamutual.com/brokernet/ssl/Pengine.asp?URL=https://brokerage.cunamutual.com/login.htm&CBSNAV=A01&Site=03702350', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Peoples Alliance Federal CU', 'Peoples Alliance FCU - Investments (US)', 'https://members.cunamutual.com/brokernet/ssl/Pengine.asp?URL=https://brokerage.cunamutual.com/login.htm&CBSNAV=A01&Site=03119341', 1);
@@ -2285,7 +2285,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Eversource
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('FPL Group', 'Florida Power & Light (US)', 'https://app.fpl.com/eca/EcaController', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('RTN Federal Credit Union', 'RTN FCU (US)', 'https://online.rtn.org/auth/SignIn?wa=wsignin1.0&wtrealm=https://online.rtn.org/banking/&wctx=rm=0&id=passive&ru=/banking/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First City Credit Union', 'First City CU (US)', 'https://www.firstcitycu.org/tob/live/usp-core/app/login/consumer', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES (' Alliance Credit Union', 'Alliance CU (US)', 'https://www.1stcuhb.com/tob/live/usp-core/app/login/Consumer', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Â Alliance Credit Union', 'Alliance CU (US)', 'https://www.1stcuhb.com/tob/live/usp-core/app/login/Consumer', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Kentucky Bank', '1st Kentucky Bank (US)', 'https://secure.fundsxpress.com/start/1KBMKY', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('1st National Bank of Nevada', '1st National Bank of Nevada (US)', 'https://online.fnbnevada.com/servlet/SLogin?template=/c/login/sloginsc.vm&login=true&defaultLanguage=en', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('1st Source Bank', '1st Source Bank (US)', 'https://www.1stsourceonline2.com/tob/live/usp-core/app/login/consumer', 1);
@@ -4663,9 +4663,9 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Easthampto
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('OmniAmerican Bank', 'SouthSide Bank (US)', 'https://secure.southside.com/SouthsideBankOnline_40/Authentication/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Bank', 'First Bank (AK) (US)', 'https://secure-firstbankak.com/Common/SignOn/Start.asp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Indiana University Employees FCU', 'Indiana University CU (US)', 'https://www.iucuonline.org/tob/live/usp-core/app/login/consumer', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco de Sabadell, S.A.', 'ActivoBank (España)', 'https://www.activobank.com/home.jsp', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Open Bank Santander Consumer, S.A.', 'Open Bank Santander Consumer (España)', 'https://bancoonline.openbank.es/servlet/PProxy?cmd=971', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Grupo Banco Popular', 'Banco Popular (Autónomos) (España)', 'https://www2.bancopopular.es/particularesN', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco de Sabadell, S.A.', 'ActivoBank (EspaÃ±a)', 'https://www.activobank.com/home.jsp', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Open Bank Santander Consumer, S.A.', 'Open Bank Santander Consumer (EspaÃ±a)', 'https://bancoonline.openbank.es/servlet/PProxy?cmd=971', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Grupo Banco Popular', 'Banco Popular (AutÃ³nomos) (EspaÃ±a)', 'https://www2.bancopopular.es/particularesN', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Northfield Savings Bank', 'Northfield Bank - Credit Cards (US)', 'https://www.cardmemberservices.net/NorthfieldSavingsBk', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('BSkyB Ltd', 'Sky.com (UK)', 'http://www.sky.com/portal/site/skycom/mysky/login', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Thomas Weisel Partners', 'Thomas Weisel Partners (US Clients) (US)', 'https://investor.wealthscape.com/tweisel/investor-index.html?login', 1);
@@ -4724,8 +4724,8 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Stark Fede
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('SAFE Federal Credit Union', 'SAFE FCU (US)', 'https://safenet.online-cu.com/ISuite5/Features/Auth/MFA/Default.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Citigroup', 'CitiBusiness Online (US)', 'https://businessaccess.citibank.citigroup.com/cbusol/signon.do', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('MyStreetscape', 'myStreetscape (US)', 'https://investor.wealthscape.com/access/investor-index.html?login', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caja Rural', 'Caja Rural - Ruralvia (España)', 'https://www.ruralvia.com/isum/Main?ISUM_SCR=login&loginType=accesoSeguro&ISUM_Portal=2&acceso_idioma=es_ES', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Cajamurcia', 'Cajamurcia (España)', 'https://intelvia.cajamurcia.es/2043/entrada/06entradaencrip.htm', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caja Rural', 'Caja Rural - Ruralvia (EspaÃ±a)', 'https://www.ruralvia.com/isum/Main?ISUM_SCR=login&loginType=accesoSeguro&ISUM_Portal=2&acceso_idioma=es_ES', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Cajamurcia', 'Cajamurcia (EspaÃ±a)', 'https://intelvia.cajamurcia.es/2043/entrada/06entradaencrip.htm', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('World Financial Network National Bank', 'HSBC Retail Services - Credit Cards (US)', 'https://www.hrsaccount.com/hrs/ecare?cmd_Redirect=Home&org=000', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Skype Limited', 'Skype (US)', 'https://secure.skype.com/store/member/login.html', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('BMI Federal Credit Union', 'BMI FCU (US)', 'https://online.bmifcu.org/bmifederalcredituniononline_41/Uux.aspx#/login', 1);
@@ -4829,9 +4829,9 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('AES', 'Ind
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Transamerica', 'Transamerica IDEX Mutual Funds (US)', 'https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&cz=9191700131808030423', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('UPMC', 'UPMC (Benefits) (US)', 'https://leplb0260.portal.hewitt.com/web/upmc/login?forkPage=false', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Mutual Shareholder Services, LLC', 'Mutual Shareholder Services (MSS) (US)', 'https://www.mutualss.net/CLO/Customer_Log_on.aspx', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('laCaixa', 'La Caixa (Autónomos) (España)', 'http://portal.lacaixa.es/home/particulares_es.html', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('laCaixa', 'La Caixa (AutÃ³nomos) (EspaÃ±a)', 'http://portal.lacaixa.es/home/particulares_es.html', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('State Street - Self-directed Brokerage', 'ITW Savings and Investment Plan (US)', 'https://itwretirementplans.voyaplans.com/eportal/welcome.do', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caja Gipuzkoa San Sebastian', 'kutxa (España)', 'http://www.kutxa.net/jkn_home/Home?', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caja Gipuzkoa San Sebastian', 'kutxa (EspaÃ±a)', 'http://www.kutxa.net/jkn_home/Home?', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Morningstar', 'IPO Home (US)', 'https://www.geminifund.com/geminitransferagent/login.aspx?fundIdentifier=IPOFunds', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('State Street', 'State Street Benefits Center 401k (US)', 'https://statestreet.voyaplans.com/eportal/welcome.do', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('General Mills', 'General Mills (Total Rewards 401k) (US)', 'https://leplb0440.portal.hewitt.com/web/generalmills/login?forkPage=false', 1);
@@ -4874,8 +4874,8 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Insperity'
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Signature Bank', 'Signature Bank of Arkansas - Credit Cards (US)', 'https://www.ezcardinfo.com/login.aspx?b=SBOA&bid=88001B', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Signature Bank', 'Signature Bank of Arkansas (US)', 'https://secure9.onlineaccess1.com/signaturebankofarkansasonline_41/uux.aspx#/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('UMB Bank', 'UMB TrustDirect (US)', 'https://services2.sungard.com/idp/UMBID/?ClientID=UMBID', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('iberCaja', 'iberCaja (España)', 'https://www1.ibercajadirecto.com/ibercaja/asp/Login.asp', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caja Mediterraneo', 'Caja Mediterraneo - CAM (España)', 'https://seguro.cam.es/camd/LoginServlet?lang=es', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('iberCaja', 'iberCaja (EspaÃ±a)', 'https://www1.ibercajadirecto.com/ibercaja/asp/Login.asp', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caja Mediterraneo', 'Caja Mediterraneo - CAM (EspaÃ±a)', 'https://seguro.cam.es/camd/LoginServlet?lang=es', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Paradigm Financial Corp.', 'Paradigm Financial - 401(k) (US)', 'https://www.expertplan.com/login1a.jsp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Boom Securities (H.K.)', 'Boom Securities (Hongkong)', 'https://www.boom.com.hk/client2/login_form.asp?checkCookie=Y&GoTo=default&main_menu=default', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Unitel Communications Group', 'Unitel Communications Long Distance (US)', 'https://unitelcustomer.com/default.aspx', 0);
@@ -5368,7 +5368,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Cashmere V
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Securities Service Network ', 'SSN - Albridge Solutions (Client Access) (US)', 'https://www.mainaccount.com/ssn/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Independent Portfolio Consultants', 'Independent Portfolio Consultants (Advisor Access) (US)', 'https://reporting.ipcanswers.com/Login/Login.aspx?ReturnUrl=%2f', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('The Equitable Life Assurance Society', 'Axa Equitable Life (US)', 'https://us.axa.com/login.html', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankinter,S.A.', 'Bankinter (Autónomos) (España)', 'https://www.bankinter.com/www/es-es/cgi/ebk+home', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankinter,S.A.', 'Bankinter (AutÃ³nomos) (EspaÃ±a)', 'https://www.bankinter.com/www/es-es/cgi/ebk+home', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Comanche National Bank', 'Comanche National Bank (US)', 'https://www.pcsbanking.net/onlinebanking7/login.r?t-bank=111903407', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Beverly Cooperative Bank', 'Beverly Cooperative Bank (US)', 'https://web1.secureinternetbank.com/pbi_pbi1961/Pbi1961.ashx?WCI=RemoteLogin&RT=211372145&LogonBy=connect3&PRMACCESS=Portfolio', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bay National Bank', 'Bay National Bank (US)', 'https://cibng.ibanking-services.com/EamWeb/Account/Login.aspx?orgId=512_055003353&FIFID=055003353&brand=512_055003353&appId=CeB&FIORG=512', 1);
@@ -5400,7 +5400,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Envision F
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('National Penn Bank', 'National Penn Bank Business Banking (US)', 'https://nationalpenn-business.onlinebank.com/1928/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Investor 360', 'Investor 360 (US)', 'https://www.investor360.net/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Vineyard Bank N.A', 'Vineyard Bank (US)', 'https://www.fiservla6.com/PBI1961.asp?Rt=122238572&LogonBy=Connect3&PRMAccess=Account&URL=Start.htm', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Inversis Banco', 'inversis (España)', 'https://www.inversis.com/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Inversis Banco', 'inversis (EspaÃ±a)', 'https://www.inversis.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Lincoln Investment Planning, Inc', 'Lincoln Investment Planning (US)', 'https://www.lincolninvestment.com/investor/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Sun Life Assurance Company of Canada (US)', 'Sun Life Financial (Plan Members) (Canada)', 'https://www.sunnet.sunlife.com/member/signin/index.asp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Great American Insurance Company', 'Great American Insurance Group (US)', 'https://myannuity.gaig.com/login?ReturnUrl=https%3a%2f%2fmyannuity.gaig.com%2f', 1);
@@ -5443,7 +5443,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Country Cl
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('NetExchange Client', 'NetExchange Client- Lincoln Investment (US)', 'https://lincoln.netxinvestor.com/web/lincoln/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('NetExchange Client', 'NetExchange Client (NetxView) (US)', 'https://www.netxinvestor.com/web/netxinvestor/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Metropolitan Life Insurance Company', 'MetLife Investors (Financial Professionals) (US)', 'https://www.metlifeinvestors.com/wps/myportal', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caja Espana', 'Caja España (España)', 'https://www.cajaespana.net/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caja Espana', 'Caja EspaÃ±a (EspaÃ±a)', 'https://www.cajaespana.net/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Florida Shores Bank', 'Stonegate Bank - Bank (US)', 'https://secure.stonegatebank.com/login2008/Authentication/Views/Login.aspx?returnUrl=%2f', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('AXA Equitable Life Insurance Company', 'ADA Members Retirement Program (Participant) (US)', 'https://adapar.axa-equitable.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('World Financial Network National Bank', 'HFC, Beneficial and HSBC Credit Center (US)', 'https://www.beneficial.com/manage-account-online/UserLogin', 1);
@@ -5539,7 +5539,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('SmartyPig'
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Wayne Hummer Investments', 'Wayne Hummer (US)', 'https://whummer.fccaccessonline.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Twenty-First Securities Corporation', 'Twenty-First Securities Corporation (US)', 'https://toolkit.clearco.com/tfsc/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Lending Club', 'Lending Club (US)', 'https://www.lendingclub.com/account/gotoLogin.action', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('America¿s Servicing Company ', 'America''s Servicing Company - Mortgage (US)', 'https://wellsfargo.customercarenet.com/ccn/wellsfargo/mymortgage.html#HOME-C', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('AmericaÂ¿s Servicing Company ', 'America''s Servicing Company - Mortgage (US)', 'https://wellsfargo.customercarenet.com/ccn/wellsfargo/mymortgage.html#HOME-C', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('North star bank of Texas', 'Northstar Bank Of Texas (US)', 'https://web11.secureinternetbank.com/PBI_PBI1151/Login/111904817', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('MandT Bank', 'OnBank (US)', 'https://cibng.ibanking-services.com/cib/CEBMainServlet/Login?FIORG=113&FIFID=022306520', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Eastern savings bank', 'Eastern Savings Bank (US)', 'https://cibng.ibanking-services.com/EamWeb/Account/Login.aspx?orgId=12E_252070639&FIFID=252070639&brand=12E_252070639&appId=CeB&FIORG=12E', 1);
@@ -5578,7 +5578,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Metcalf Ba
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('National Western Life', 'National Western Life (Agent) (US)', 'https://www.nationalwesternlife.com/beacon/GetAgt.asp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Associated Banc-Corp', 'Associated Bank (Retirement Plan) (US)', 'https://asb.retirement.schwabrt.com/Participant/aspx/community/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Boetger & Associates, Inc.', 'Boetger & Associates (US)', 'https://www.yourplanaccess.net/nwsb/default.aspx', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Desjardins Group', 'Desjardins AccèsD AccèsD Affaires (Canada)', 'https://accweb.mouv.desjardins.com/identifiantunique/identification?langueCible=en', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Desjardins Group', 'Desjardins AccÃ¨sD AccÃ¨sD Affaires (Canada)', 'https://accweb.mouv.desjardins.com/identifiantunique/identification?langueCible=en', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('New York Life', 'New York Lifes (MainStay Annuities) (US)', 'https://www.newyorklifeannuities.com/siteminderagent/forms/IADComboLogin2.fcc?TYPE=33554432&REALMOID=06-28dd2930-5397-1001-b69f-839b2c470cb3&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-BxkS3P852dPCHATfhZRJXnKrJ7dIl2AMfUH5i1XpX901RpSni53eG0RAjQ5aHMlEXy', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('McKinsey', 'McKinsey 401k (US)', 'https://myaccount.mckinsey.com/login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('GM Financial', 'GM Financial (US)', 'https://www.gmfinancial.com/MyAccount/Login.aspx', 1);
@@ -6012,7 +6012,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Saks Fifth
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Saturna Capital Corporation', 'Saturna Brokerage Services (US)', 'https://saturna.netxinvestor.com/web/saturna/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Hewitt Management Company', 'YourPNC (US)', 'https://leplb0930.portal.hewitt.com/web/pnc/login?forkPage=false', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Securian Financial Group', 'Securian Retirement Center - 401k (US)', 'https://www.securianretirementcenter.com/#individuals', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('The Children¿s Place Retail Stores', 'The Children''s Place Credit Card (US)', 'https://d.comenity.net/childrensplace/pub/signin/SignIn.xhtml', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('The ChildrenÂ¿s Place Retail Stores', 'The Children''s Place Credit Card (US)', 'https://d.comenity.net/childrensplace/pub/signin/SignIn.xhtml', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Jefferies & Company', 'Jefferies Clearing & Execution Services (US)', 'https://clearing.jefco.com/index.php', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('MXenergy', 'constellation (US)', 'https://myaccount.mxenergy.com/home/GA/MyAccount/Pages/LoginPage/?URL=/home/ga/MyAccount/default.asp', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('CELLULAR ONE', 'Cellular One of San Luis Obispo (US)', 'https://secure.cellularone-slo.com/login.aspx?', 0);
@@ -6462,8 +6462,8 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Groupe Ban
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Barclays Bank PLC', 'Barclays (France)', 'https://www1.b-net.barclays.fr/barclaysnetV2/logininstit.do?lang=fr&%3bnodoctype=0', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Coutts & Co', 'Coutts (UK)', 'https://online.coutts.com/eBankingCouttsLogin/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('American Express (India)', 'American Express Cards (India)', 'https://www.americanexpress.com/india/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('CreditMutuel', 'Crédit Mutuel Centre-Est Europe (France)', 'https://www.creditmutuel.fr/cmcee/fr/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('CreditMutuel', 'Crédit Mutuel Anjou (France)', 'https://www.creditmutuel.fr/cma/fr/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('CreditMutuel', 'CrÃ©dit Mutuel Centre-Est Europe (France)', 'https://www.creditmutuel.fr/cmcee/fr/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('CreditMutuel', 'CrÃ©dit Mutuel Anjou (France)', 'https://www.creditmutuel.fr/cma/fr/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('National Philanthropic Trust', 'National Philanthropic Trust (US)', 'https://www5.stellarfinancial.com/ex_lmason/login.aspx?ReturnUrl=%2fex_lmason%2fdefault.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('The NHHEAF Network Organizations', 'The NHHEAF Network (US)', 'https://secure.gsmr.myloanmanager.com/Account/Login?ReturnUrl=%2f', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Lloyds', 'Lloyds Business Banking (UK)', 'https://onlinebusiness.lloydsbank.co.uk/business/logon/login.jsp', 1);
@@ -7345,7 +7345,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Western Na
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Pinnacle Trust', 'Pinnacle Trust (Client Access) (US)', 'https://pinnacletrust.gws.seic.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('American Bank', 'American Bank Center - Credit Cards (US)', 'https://www.mycardstatement.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('National Capital Bank', 'National Capital Bank (US)', 'https://secure02.bankhost.com/cardviewonlinenow/ncbwash/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Crédit Mutuel Arkéa', 'Credit Mutuel de Bretagne (France)', 'https://www.cmb.fr/creditmutuel/cmb/index.jsp?fede=cmb', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('CrÃ©dit Mutuel ArkÃ©a', 'Credit Mutuel de Bretagne (France)', 'https://www.cmb.fr/creditmutuel/cmb/index.jsp?fede=cmb', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Verizon Enterprise Center', 'Verizon Enterprise Center (US)', 'https://enterprisecenter.verizon.com', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Guaranty Bancshares, Inc', 'Guaranty Bond Bank (US)', 'https://secure.fundsxpress.com/start/GBBMPTX', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Home Federal KY', 'Town square bank (US)', 'https://web1.secureinternetbank.com/pbi_pbi1151/login/242170028', 1);
@@ -7706,7 +7706,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Indian Ove
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Affinity Bank (US)', 'Affinity Bank (GA) (US)', 'https://secure.fundsxpress.com/start/ABAGA', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Layton State Bank', 'Layton State Bank (US)', 'https://cibng.ibanking-services.com/cib/CEBMainServlet/Login?FIORG=084&FIFID=075000721', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Wells Fargo', 'Wells Fargo Retirement Plan (US)', 'https://www.wellsfargo.com/retirementplan/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES (' Bogman Inc', 'Fonds FÉRIQUE (Canada)', 'https://client.ferique.com/Login', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES (' Bogman Inc', 'Fonds FÃ‰RIQUE (Canada)', 'https://client.ferique.com/Login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('REDW Business & Financial Resources, LLC', 'REDW (US)', 'https://www.retirementlogin.net/redw/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('SC State Credit Union', 'SC State CU (US)', 'https://www.scuonlinebanking.com/tob/live/usp-core/app/login/consumer', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bank of Southern California', 'Bank of Southern California (US)', 'https://secure.fundsxpress.com/start/BSCSDCA', 1);
@@ -7725,7 +7725,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Questar Ga
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Tyco FCU', 'Tyco FCU (US)', 'https://ntmc.webcu.org/cgi-bin/mcw200.cgi', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Aviva Life Insurance Company', 'Aviva (India)', 'https://online.avivaindia.com/econnect/login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Allegent Community FCU', 'Allegent Community FCU (US)', 'https://allegent.online-cu.com/ISuite5/Features/Auth/MFA/Default.aspx', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Itaú Unibanco (BR)', 'ItaúUnibanco (Brazil)', 'https://bankline.itau.com.br/lgnet/itauf/bankline.htm', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('ItaÃº Unibanco (BR)', 'ItaÃºUnibanco (Brazil)', 'https://bankline.itau.com.br/lgnet/itauf/bankline.htm', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Homer TLC', 'Home Depot Credit Card (Canada)', 'https://www.accountonline.com/webdepot/pl/CACN_HOMEDEPOT_enCA/REQUEST_SIGNON', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Sears', 'Sears Credit Cards (Canada)', 'https://online.chasecanada.ca/ChaseCanada_Consumer/Login.do?promoCode=SCC', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Local First Trust', 'Local First Trust (US)', 'https://dnawebtest.dnawebbanking.com/XXX40Bank/SignOn/Logon', 1);
@@ -7874,7 +7874,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Motif Inve
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Orange Credit Union Limited', 'Orange CU (Australia)', 'https://is2.cuviewpoint.net/mvporange/SignOn/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('IFFCO TOKIO General Insurance Company Limited', 'Iffco Tokio (India)', 'https://www.itgionline.com/itgiwebportal/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Indiabulls', 'Indiabulls Home Loans (India)', 'https://loans.indiabulls.com/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Bilbao Vizcaya Argentaria,S. A', 'BBVA Bancomer (México)', 'http://www.bancomer.com/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Bilbao Vizcaya Argentaria,S. A', 'BBVA Bancomer (MÃ©xico)', 'http://www.bancomer.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('IDBI Capital Market Services', 'IDBI Capital (India)', 'https://trade.idbicapital.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Axis Asset Management Company', 'Axis Mutual Fund (India)', 'https://online.axismf.com/newinvestor/login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Birmingham Bloomfield CU', 'Birmingham Bloomfield CU (US)', 'https://obc.itsme247.com/231/', 1);
@@ -8197,7 +8197,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('SiteQuest 
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Motley Fool Asset Management, LLC', 'Motley Fool Funds (US)', 'https://www.secureaccountview.com/BFWeb/clients/foolfunds/index', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('BTonline', 'BT Investor wrap (Australia)', 'https://www.investorwrap.com.au/wrap/investor', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bangkok Bank Public Company Limited', 'Bangkok Bank Business Banking (Thailand)', 'https://bizibanking.bangkokbank.com/bblamsui/SignOn.aspx', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('punjab & sind', 'Punjab & Sind Bank - Corporate Banking  (India)', 'https://www.psbindia.com/content/home-page1', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('punjab & sind', 'Punjab & Sind Bank - Corporate BankingÂ  (India)', 'https://www.psbindia.com/content/home-page1', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('svc', 'The Shamrao Vithal Corporative Bank (India)', 'https://netbanking.svcbank.co.in/PIB/DefaultPages/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Union Bank of India', 'Union Bank Of India (Corporate) (India)', 'https://www.unionbankonline.co.in/corp/BANKAWAY?Action.CorpUser.Init.001=Y&AppSignonBankId=026&AppType=corporate', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('State Bank of Travancore', 'State Bank of Travancore (Corporate) (India)', 'https://www.sbtonline.in/khata/sbtlogin.htm', 1);
@@ -8389,7 +8389,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('CoreLogic'
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('ING Investments Distributor', 'ING Investment Management(529 Plan)-Investments (US)', 'https://nge01.bnymellon.com/NextGenV4/dflt/Login.iwi', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Taurus Mutual Fund', 'Taurus (India)', 'https://online.taurusmutualfund.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Prime Trade', 'Prime Trade (US)', 'https://investor.wealthscape.com/access/investor-index.html?login', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Chicago Patrolmen’s FCU', 'Chicago Patrolmen’s FCU (US)', 'https://www.cpdfcuhomebanking.com/tob/live/usp-core/app/login/consumer', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Chicago Patrolmenâ€™s FCU', 'Chicago Patrolmenâ€™s FCU (US)', 'https://www.cpdfcuhomebanking.com/tob/live/usp-core/app/login/consumer', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Rosenthal Collins Group', 'Rosenthal Collins Group LLC - Investments (US)', 'https://www.rcginquiry.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Punjab & Maharashtra Co-op Bank', 'PMC Bank (India)', 'https://www.pmcbank.net/internetbanking/lhome.do', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('aditya birla retail ltd.', 'Clubmore (India)', 'https://clubmore.morestore.com/Login.aspx', 0);
@@ -8465,7 +8465,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Serve Virt
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Bankcard', 'new First National Bank of Omaha (US)', 'https://www.fnbomaha.com/site/personal/personal.fhtml', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('New York Community Bank', 'AmTrust Direct (US)', 'https://secure.mynycb.com/forms/login.jsp?TARGET=-SM-https%3a%2f%2fonlinebanking.mynycb.com%2fOLB%2fWelcome.htm', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('American Savings Bank', 'American Savings Bank (OH) (US)', 'https://online.bankwithasb.com/servlet/SLogin?template=/c/login/sloginsc.vm&login=true&defaultLanguage=en', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Nebraska Furniture Mart®, Inc', 'Nebraska Furniture Mart (US)', 'https://www.nfm.com/myaccount/StatementsLoginWindow.aspx', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Nebraska Furniture MartÂ®, Inc', 'Nebraska Furniture Mart (US)', 'https://www.nfm.com/myaccount/StatementsLoginWindow.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Mauch Chunk Trust Company', 'Mauch Chunk Trust Company (US)', 'https://www.pcsbanking.net/onlinebanking2/login.r?t-bank=31307701', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Liberty Group Limited', 'Liberty (South Africa)', 'https://www.blueprintonline.co.za/public/BPOPublic/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('People First Federal Credit Union', 'People First FCU (US)', 'https://www.peoplefirstcuonline.org/tob/live/usp-core/app/login/consumer', 1);
@@ -9049,7 +9049,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Warwick Cr
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bank of Ann Arbor', 'Bank of Ann Arbor (Business) (US)', 'https://web6.secureinternetbank.com/ebc_ebc1961/EBC1961.ashx?wci=process&wce=request&rid=3000&rtn=072413735&rt=072413735&mfa=2', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Cornerstone Bank', 'Cornerstone Bank (NJ) (US)', 'https://olb.cornerstonebanknj.com/LoginAdv.aspx?qs=yX9kMC9dy6Xmxp8jVNQ3hg%3d%3d', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('The People''s Federal Credit Union', 'The People''s FCU (US)', 'https://www.ea.financial-net.com/vbsts/Login/IALogin.aspx?ReturnUrl=%2fvbsts%2f%3fwa%3dwsignin1.0%26wtrealm%3dhttps%253a%252f%252fwww.financial-net.com%252f%26wctx%3drm%253d0%2526id%253dpassive%2526ru%253d%25252ftpfcu%25252fsecurity%25252fOlbCmdSmn000%252', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Wells Fargo Bank, N.A', ' Wells Fargo Go Far Rewards (US)', 'https://connect.secure.wellsfargo.com/auth/login/rewards', 0);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Wells Fargo Bank, N.A', 'Â Wells Fargo Go Far Rewards (US)', 'https://connect.secure.wellsfargo.com/auth/login/rewards', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Golden Belt Bank', 'Golden Belt Bank (US)', 'https://www.goldenbeltbank.com/tob/live/usp-core/app/login/consumer', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Central Bancompany', 'Central Trust and Investment Company (US)', 'https://iaf.infinity.com/IAF_IdP/CBITRPWL/plugins/common/app.xhtml', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Rabobank Australia Limited', 'RaboDirect (Australia)', 'https://secure.rabodirect.com.au/exp/policyenforcer/pages/loginB2CDGPEN.jsf?login', 1);
@@ -9772,7 +9772,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Choi
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Quay Credit Union Ltd', 'G & C Mutual Bank (Australia)', 'https://ibank.gcmutualbank.com.au/mvpgcm/SignOn/Login.aspx?ReturnUrl=%2fmvpgcm%2fSignOn%2fSignOn%2fLogin.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Siuslaw Bank', 'Siuslaw Bank (US)', 'https://web4.secureinternetbank.com/pbi_pbi1961/PBI1961.ashx?Rt=123202293&LogOnBy=connect3&PRMACCESS=Account', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('UBS Financial Services Inc.', 'UBS One Source (Mondelez) (US)', 'https://onesource.ubs.com/CEFSWebApp/callpage.do?bookCode=MDLZ&page=login_header_new', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Bilbao Vizcaya Argentaria S.A', 'BBVA (Autónomos) (España)', 'https://www.bbva.es/particulares/index.jsp', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Bilbao Vizcaya Argentaria S.A', 'BBVA (AutÃ³nomos) (EspaÃ±a)', 'https://www.bbva.es/particulares/index.jsp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('South Dakota Retirement System', 'South Dakota Retirement System - Investment (US)', 'https://apps.sd.gov/rt05memberdata/login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Inland American Real Estate Investment Corporation', 'Inland American Real Estate (US)', 'https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&cz=80813110013030012', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('KBS Capital Markets Group, LLC.', 'KBS Capital Markets Group (Investor) (US)', 'https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&cz=6100118271715', 1);
@@ -9813,7 +9813,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Urban Trus
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First South Bank', 'First South Bank (Business) (US)', 'https://web13.secureinternetbank.com/EBC_EBC1961/EBC1961.ashx?wci=process&wce=request&rid=3000&rtn=084302342&rt=084302342&mfa=2', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('UC Regents', 'University of California (US)', 'https://atyourserviceonline.ucop.edu/ayso/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('The Provident Bank.', 'Provident Bank of New Jersey (business) (US)', 'https://providentnj.ebanking-services.com/EamWeb/account/login.aspx?appId=beb&brand=providentnj&ec=', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('BBVA Continental', 'BBVA Continental (España)', 'https://pe1.bbvanetlatam.com/index.html', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('BBVA Continental', 'BBVA Continental (EspaÃ±a)', 'https://pe1.bbvanetlatam.com/index.html', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('People''s Community Bank', 'People''s Community Bank (US)', 'https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=pcbgreenville&bn=608c2674888bfd9a&burlid=0857bf9c6fcd1013', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Bank and Trust', 'First Bank and Trust (LA)(Business) (US)', 'https://biz2.fbtonline.net/EBC_EBC1961/EBC1961.ASHX?wci=process&wce=request&rid=3000&rtn=065002289&rt=065002289&mfa=2', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('ABN AMRO', 'ABN AMRO (Netherlands)', 'https://www.abnamro.nl/portalserver/nl/prive/index.html?l', 1);
@@ -9843,19 +9843,19 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('American N
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Third Coast Bank', 'Third Coast Bank SSB (US)', 'https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=thirdcoastbank&bn=115663e1a6508cb7&burlid=d37a08805d33547c', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('FirstBank Holding Company', '1st Bank(Cash Mangement) (US)', 'https://www.efirstbank.com/centralAuthICM/jsp/main/Logon.faces', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('PayPal', 'Paypal Business (US)', 'https://www.paypal.com/in/cgi-bin/webscr?cmd=_login-run', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Santander', 'Santander (Autónomos) (España)', 'https://en.particulares.gruposantander.es/SUPFPA_ENS/BtoChannelDriver.ssobto?dse_processorState=initial&dse_nextEventName=start&dse_operationName=NavLoginSupernet', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Santander', 'Santander (AutÃ³nomos) (EspaÃ±a)', 'https://en.particulares.gruposantander.es/SUPFPA_ENS/BtoChannelDriver.ssobto?dse_processorState=initial&dse_nextEventName=start&dse_operationName=NavLoginSupernet', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Buena Vista National Bank', 'Buena Vista National Bank (US)', 'https://web15.secureinternetbank.com/PBI_PBI1961/PBI1961.ashx?rt=081905292&logonby=connect3&PRMaccess=account&Override=true', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('StatewideSuper', 'StatewideSuper (Australia)', 'https://www.statewidesuperonline.com.au/aol/index.html#Login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Neighbors Credit Union', 'Neighbors CU (US)', 'https://www.neighborscu.org/tob/live/usp-core/app/login/consumer', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('ABSA Avios Credit Card', 'Avios (South Africa)', 'https://ib.absa.co.za/acob/login.jsp', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Santander', 'Santander Bank (Empresas) (España)', 'https://empresas3.gruposantander.es/Estatico/BEComponentesGeneralesAccesoSEI/Html/login.htm', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Santander', 'Santander Bank (Empresas) (EspaÃ±a)', 'https://empresas3.gruposantander.es/Estatico/BEComponentesGeneralesAccesoSEI/Html/login.htm', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Northwest Bank', 'Northwest Bank (US)', 'https://secure10.nwfinancialcorp.com/PBI_PBI1151/Login/273970682', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Citizens National Bank', 'Citizens Bank Kentucky (US)', 'https://www.myebanking.net/cnbonline/login/login.aspx', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco de Sabadell', 'Sabadell (Autónomos) (España)', 'https://www.bancsabadell.com/cs/Satellite/SabAtl/Privat/1191332204474/en/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco de Sabadell', 'Sabadell (AutÃ³nomos) (EspaÃ±a)', 'https://www.bancsabadell.com/cs/Satellite/SabAtl/Privat/1191332204474/en/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Community Trust Bancorp, Inc', 'Community Trust Bank (Business) (US)', 'https://ctbi-bib.ebanking-services.com/EamWeb/account/login.aspx?appId=beb&brand=ctbi-bib', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Square 1 Financial', 'Square 1 Bank (NC) (US)', 'https://www.ezcardinfo.com/?B=PWB#/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco de Sabadell', 'Sabadell(Empresas) (España)', 'https://www.bancsabadell.com/cs/Satellite/SabAtl/Business/1191332202619/en/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Catalunya Banc', 'Catalunya Caixa(Particulares) (España)', 'http://www.catalunyacaixa.com/Portal/en/ch.Particulares.corporativa', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco de Sabadell', 'Sabadell(Empresas) (EspaÃ±a)', 'https://www.bancsabadell.com/cs/Satellite/SabAtl/Business/1191332202619/en/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Catalunya Banc', 'Catalunya Caixa(Particulares) (EspaÃ±a)', 'http://www.catalunyacaixa.com/Portal/en/ch.Particulares.corporativa', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Kaw Valley State Bank', 'Kaw Valley State Bank (US)', 'https://www.kawvalleystatebank.com/tob/live/usp-core/app/login/consumer', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('San Pasqual Trust', 'San Pasqual Trust (US)', 'https://clientpoint.fisglobal.com/tdcb/main/UserLogon?bankNumber=9P&subProduct=SANPASQUAL', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('S.L. Reed & Company', 'S.L. Reed & Company(Brokerage Access) (US)', 'https://toolkit.clearco.com/slreed/', 1);
@@ -9863,15 +9863,15 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('East West 
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Tulare County', 'Tulare County (US)', 'https://tularefcu.online-cu.com/ISuite5/Features/Auth/MFA/Default.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Port City Bank', 'First Port City Bank (US)', 'https://web10.secureinternetbank.com/PBI_PBI1151/Login/061202452', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('BankGloucester', 'Gloucester Bank (Business) (US)', 'https://gloucestercoop1.btbanking.com/onlineserv/CM/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankia S.A.', 'Bankia (Autónomos) (España)', 'https://oi.bankia.es/en/login', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankia S.A.', 'Bankia (AutÃ³nomos) (EspaÃ±a)', 'https://oi.bankia.es/en/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('BankGloucester', 'Gloucester Bank (US)', 'https://www.gloucestercoop1.com/tob/live/usp-core/app/login/Consumer', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('ABANCA', 'ABANCA (España)', 'https://bancaelectronica.abanca.com/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('ABANCA', 'ABANCA (EspaÃ±a)', 'https://bancaelectronica.abanca.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Talmer Bank and Trust', 'Talmer Bank (Business) (US)', 'https://web6.secureinternetbank.com/EBC_EBC1961/EBC1961.ashx?wci=process&wce=request&rid=3000&rtn=272471551&rt=272471551&mfa=2', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Central Bank', 'Central Bank (UT)(Business) (US)', 'https://centralbankutah.btbanking.com/onlineserv/CM/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('ABANCA', 'ABANCA(Empresas) (España)', 'https://be.abanca.com/BEPRJ001/jsp/SECURE_login_step1.faces?_flowExecutionKey=_cD7DDE114-3AE0-2907-9F58-C94FAA60B161_kD445EB28-DE44-F474-C03B-258906E70E87#no-back-button', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('ABANCA', 'ABANCA(Empresas) (EspaÃ±a)', 'https://be.abanca.com/BEPRJ001/jsp/SECURE_login_step1.faces?_flowExecutionKey=_cD7DDE114-3AE0-2907-9F58-C94FAA60B161_kD445EB28-DE44-F474-C03B-258906E70E87#no-back-button', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Western Alliance Bank', 'Bank Of Nevada(Netline) (US)', 'https://secure8.bankofnevada.com/BankofNevada/PassmarkSignIn.faces', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Forcht Bank', 'Forcht Bank (US)', 'https://web13.secureinternetbank.com/PBI_PBI1151/Login/042108397', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankia S.A.', 'Bankia (Empresas) (España)', 'https://oficinaempresas.bankia.es/en/login.html', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankia S.A.', 'Bankia (Empresas) (EspaÃ±a)', 'https://oficinaempresas.bankia.es/en/login.html', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('American Riviera Bank', 'American Riviera Bank (US)', 'https://online.americanrivierabank.com/americanrivierabankonline/uux.aspx#/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Golden Plains Credit Union', 'Golden Plains CU (US)', 'https://www.gpcuonline.org/tob/live/usp-core/app/login/consumer', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Salin Bank & Trust Company', 'Salin Bank (Business) (US)', 'http://www.salin.com/business-banking', 1);
@@ -9932,7 +9932,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('KPMG', 'KP
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Spur Group (Pty) Ltd', 'Super Family CARD (South Africa)', 'http://www.spur.co.za/FamilyCard/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Synergy bank', 'Synergy Bank (LA) (US)', 'https://web11.secureinternetbank.com/PBI_PBI1151/Login/065405297', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Northwestern Mutual CU', 'Northwestern Mutual CU Credit Card (US)', 'https://www.myaccountaccess.com/onlineCard/login.do?theme=elan1&loc=12213', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('© 2012 - 2014 Aon Hewitt', 'your BENEFITS resources (Kimberly-Clark) (US)', 'https://beplb01.portal.hewitt.com/web/kcc', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Â© 2012 - 2014 Aon Hewitt', 'your BENEFITS resources (Kimberly-Clark) (US)', 'https://beplb01.portal.hewitt.com/web/kcc', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('American Stock Transfer & Trust Company', 'American Stock Transfer & Trust foreign (US)', 'https://secure.amstock.com/Shareholder/sh_flogin.asp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Sasfin Securities (Pty) Ltd', 'Sasfin Securities (South Africa)', 'https://www.sasfinsecurities.co.za/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Athene Annuity and Life Company', 'Athene (US)', 'https://www.athene.com/portal/site/customer/login/', 1);
@@ -9942,8 +9942,8 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Newbridge 
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('RMB Capital', 'RMB Capital (US)', 'http://www.rmbcap.com/login/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Mannkind Corporation', 'UBS OneSource MNKD (US)', 'https://onesource.ubs.com/CEFSWebApp/callpage.do?bookCode=MNKD&page=login_header_new', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('CircleUp Network, Inc.', 'CircleUp (US)', 'https://circleup.com/login/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Bilbao Vizcaya Argentaria', 'BBVA (Empresas) (España)', 'https://www.bbva.es/eng/empresas/index.jsp', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caixabank, S.A.', 'La Caixa (Empresas) (España)', 'https://empresa.lacaixa.es/home/empresas_es.html', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Bilbao Vizcaya Argentaria', 'BBVA (Empresas) (EspaÃ±a)', 'https://www.bbva.es/eng/empresas/index.jsp', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Caixabank, S.A.', 'La Caixa (Empresas) (EspaÃ±a)', 'https://empresa.lacaixa.es/home/empresas_es.html', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Dougherty and Company LLC', 'Dougherty and Company LLC - Private Client Group (US)', 'https://investor.wealthscape.com/access/investor-index.html?login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Tradestation Group, Inc.', 'TradeStation Client center login (US)', 'https://clientcenter.tradestation.com/SafeWebUI/TS_Logon.aspx?ReturnUrl=https://clientcenter.tradestation.com/Support/default.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Oklahoma Natural Gas', 'Oklahoma Natural Gas (US)', 'https://www.oklahomanaturalgas.com/MyAccount.aspx', 0);
@@ -9954,8 +9954,8 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Vectren Co
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Consumer Cellular, Inc', 'Consumer Cellular (US)', 'https://www.consumercellular.com/account/login', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Grange Insurance', 'Grange Insurance (US)', 'https://www.grangeinsurance.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('GREEN MOUNTAIN POWER', 'Green Mountain Power (US)', 'https://wss.greenmountainpower.com/customers/my-account/login/', 0);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('KutxaBank Empresas', 'Kutxabank (Negocios y Empresas) (España)', 'https://portal.kutxabank.es/cs/Satellite/kb/en/corporative_information', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Grupo Banco Popular', 'Popular (Empresas) (España)', 'https://www2.bancopopular.es/AppGBP/servlet/servin?p_pm=bo&p_et=em&p_id=esp&p_pf=c&p_pa=a&', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('KutxaBank Empresas', 'Kutxabank (Negocios y Empresas) (EspaÃ±a)', 'https://portal.kutxabank.es/cs/Satellite/kb/en/corporative_information', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Grupo Banco Popular', 'Popular (Empresas) (EspaÃ±a)', 'https://www2.bancopopular.es/AppGBP/servlet/servin?p_pm=bo&p_et=em&p_id=esp&p_pf=c&p_pa=a&', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Forethought Financial Group, Inc', 'Global Atlantic Annuity (US)', 'https://www.globalatlanticannuity.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('City of Tucson', 'City Of Tucson Water Online Account Services (US)', 'https://www.tucsonaz.gov/cotutilities/Click2GovCX/logonuser.html?OWASP_CSRFTOKEN=MMY1-HMXZ-MPMD-BXLB-0KMU-KUD8-TR0B-KB1R', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Hong Leong Bank Berhad', 'HongLeong Bank (Malaysia)', 'https://s.hongleongconnect.my/rib/app/fo/login', 1);
@@ -9989,7 +9989,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Globe Life
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('SEMCO Energy, Inc', 'Semco Energy (US)', 'https://myaccount.semcoenergygas.com/iwr/user/login.seam', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('American Electric Power', 'Indiana Michigan Power (US)', 'https://www.indianamichiganpower.com/account/login.aspx', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('CITY OF TULSA UTILITIES', 'City Of Tulsa Utility (US)', 'https://secure2.cityoftulsa.org/account/login.aspx', 0);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankinter,S.A.', 'Bankinter (Empresas) (España)', 'https://empresas.bankinter.com/www2/empresas/es/inicio/bienvenida#ID=EMPRESAS&attr=WEBHEBCABC1', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankinter,S.A.', 'Bankinter (Empresas) (EspaÃ±a)', 'https://empresas.bankinter.com/www2/empresas/es/inicio/bienvenida#ID=EMPRESAS&attr=WEBHEBCABC1', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Rumpke Waste & Recycling', 'Rumpke Consolidated Waste (US)', 'https://www.vuebill.com/rumpke/Login.aspx?ReturnUrl=%2fRumpke', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Orlando Utilities', 'Orlando Utilities (US)', 'https://my.ouc.com/myouc/LoginSuccess_Home', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('The Contractors Plan', 'The Contractors Plan (US)', 'https://mybenefits.contractorsplan.com/Pages/External/ExternalLogin.aspx', 1);
@@ -10015,7 +10015,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('FirstEnerg
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('FirstEnergy Corp', 'The Illuminating Company (US)', 'https://www.firstenergycorp.com/illuminating_company.html', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Jefferson Security Bank', 'Jefferson Security Bank(WV) (US)', 'https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=jeffersonsecuritybank&bn=678f4efde9e47fc7&burlid=4b1664a73c53216a', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First American Bank & Trust', 'First American Bank(LA) (US)', 'https://fabtvla.secure.fundsxpress.com/start/FABTVLA', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Unicaja', 'Unicaja (Empresas) (España)', 'https://www.unicaja.es/PortalServlet?pag=1115371509071&menu0=empresas', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Unicaja', 'Unicaja (Empresas) (EspaÃ±a)', 'https://www.unicaja.es/PortalServlet?pag=1115371509071&menu0=empresas', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('DST Systems, Inc', 'VIS Investor (US)', 'https://www.visinvestor.com/tf/VShare', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Oregon Coast Bank', 'Oregon Coast Bank (US)', 'https://web17.secureinternetbank.com/PBI_PBI1961/PBI1961.ashx?rt=123206875&logonby=connect3&PRMaccess=account&Override=true', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Fidelity Bank / Oklahoma Fidelity Bank', 'Fidelity Bank (KS) (US)', 'https://onlinebanking.fidelitybank.com/LoginAdv.aspx?qs=PXX3Zp0KdpAQqTBAuhtyWLSTP2fu8IfD', 1);
@@ -10024,11 +10024,11 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Musicians 
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('United Community Bank', 'United Community Bank(IN) (US)', 'https://secure-bankucb.com/SignOn/Logon.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Fairfax County Public Schools', 'Educational Employees'' SRFC (US)', 'https://erfcdirect.fcps.edu/wmswebsite/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('North American Company for Life and Health Insurance', 'North American Company for Life and Health Ins (US)', 'https://www.northamericancompany.com/naloginpage', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Mare Nostrum', 'BMN (Empresas) (España)', 'https://www.bmn.es/servlet/Satellite?idioma=ES&pagename=BMN_/Page/BMN_InicioRE&seccion=Empresas&sitename=BMN', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Mare Nostrum', 'BMN (Empresas) (EspaÃ±a)', 'https://www.bmn.es/servlet/Satellite?idioma=ES&pagename=BMN_/Page/BMN_InicioRE&seccion=Empresas&sitename=BMN', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('UBS Financial Services', 'UBS One Source (Sprint) (US)', 'https://onesource.ubs.com/CEFSWebApp/callpage.do?bookCode=S&page=login_header_new', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Barclays', 'CaixaBank (España)', 'https://publico.barclays.es/en/particulares/loginBnet.html', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Barclays', 'CaixaBank (EspaÃ±a)', 'https://publico.barclays.es/en/particulares/loginBnet.html', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Cenlar FSB', 'iMortgage (US)', 'https://www.loanadministration.com/loanadministration/ACCLogin.jsp', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Liberbank', 'Liberbank (Empresas) (España)', 'https://bancaadistancia.liberbank.es/BEWeb/2048/5485/inicio_identificacion.action', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Liberbank', 'Liberbank (Empresas) (EspaÃ±a)', 'https://bancaadistancia.liberbank.es/BEWeb/2048/5485/inicio_identificacion.action', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Pendleton Community Bank', 'Pendleton Community Bank (US)', 'https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=yourbank&bn=68ef9071c68e0924&burlid=e332b0743a956a75', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Halifax Share Dealing Limited', 'Halifax Online Share Dealing (UK)', 'https://www.halifaxsharedealing-online.co.uk/_mem_bin/formslogin.asp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Miners Exchange Bank', 'Miners Exchange Bank (US)', 'https://web3.secureinternetbank.com/PBI_PBI1151/Login/051404684', 1);
@@ -10472,7 +10472,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Florida Pu
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Shufro,Rose & Co., LCC', 'Shufro, Rose & Company (US)', 'https://toolkit.clearco.com/shufrorose/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Christian Investors Financial', 'Christian Investors Financial (US)', 'https://online.christianinvestors.org/LoginAdv.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bank of Oklahoma', 'Bank of Oklahoma - Mortgage (US)', 'https://bankofoklahoma.mortgageccn.com/ccn/bokf/mymortgage.html#HOME-C', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('CALIFORNIA STATE TEACHERS’ RETIREMENT SYSTEMS', 'CalStrs (US)', 'https://my.calstrs.com/MyCalSTRSWebUI/Root/Pages/Login.aspx', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('CALIFORNIA STATE TEACHERSâ€™ RETIREMENT SYSTEMS', 'CalStrs (US)', 'https://my.calstrs.com/MyCalSTRSWebUI/Root/Pages/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Link Market Services Limited', 'Link Market Services (South Africa)', 'https://investorcentre.linkmarketservices.co.za/Login?ReturnUrl=%2f', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bank of River Oaks', 'Bank of River Oaks (US)', 'https://web11.secureinternetbank.com/PBI_PBI1151/Login/113025231', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('TD Bank', 'TD Bank(eTreasury) (US)', 'https://tdetreasury.tdbank.com/s1gcb/logon/sbuser', 1);
@@ -10516,15 +10516,15 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Pershing L
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Colombo Bank', 'Colombo Bank (US)', 'https://web13.secureinternetbank.com/pbi_pbi1961/Pbi1961.ashx?RT=252070561&LogonBy=connect3&PRMACCESS=Account', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Steuben Trust Company', 'Steuben Trust Company (US)', 'https://www.olb-ebanking.com/022302786/LoginAdv.aspx?', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Brewers Fayre', 'Brewers Fayre (UK)', 'https://www.brewersfayrebonusclub.co.uk/', 0);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Santander (México) S.A', 'Santander (México)', 'http://www.santander.com.mx/NuevaVersion/index.html', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('El Banco Nacional de México', 'Banamex Particular (México)', 'https://bancanet.banamex.com/MXGCB/JPS/portal/Index.do', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Santander (MÃ©xico) S.A', 'Santander (MÃ©xico)', 'http://www.santander.com.mx/NuevaVersion/index.html', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('El Banco Nacional de MÃ©xico', 'Banamex Particular (MÃ©xico)', 'https://bancanet.banamex.com/MXGCB/JPS/portal/Index.do', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Detroit Water and Sewerage Department', 'Detroit Water and Sewerage (US)', 'https://billpay.dwsd.org/iwr/user/login.seam', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Nando''s', 'Nando''s (UK)', 'https://www.nandos.co.uk/card/log-in?nocache=6127475409152479', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Indiana University', 'Indiana University-HSA (US)', 'https://iu.nyhart.com/loginhome.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Kohler Credit Union', 'Kohler CU - Investments (Voya) (US)', 'https://kohler.voyaplans.com/eportal/welcome.do', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Accenture', 'Accenture site for former employees (US)', 'https://federation-sts.accenture.com/former/ls/Account/SignIn?ReturnUrl=%252fformer%252fls%252fissue%252fwsfed%253fwa%253dwsignin1.0%2526wtrealm%253durn%25253afederation%25253aaccenture%2526wctx%253d21f85e07-ada3-478b-af68-e002fdd9c113%2526wct%253d2015-02', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Phillips Edison Grocery Center REIT I', 'Phillips Edison Grocery Center REIT (US)', 'https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&cz=a15070811110815180403%20Registration%20URL:', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('American Express Bank', 'American Express Cards (México)', 'https://global.americanexpress.com/myca/logon/canlac/action/LogonHandler?request_type=LogonHandler&Face=es_MX&inav=mx_utility_login', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('American Express Bank', 'American Express Cards (MÃ©xico)', 'https://global.americanexpress.com/myca/logon/canlac/action/LogonHandler?request_type=LogonHandler&Face=es_MX&inav=mx_utility_login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('holland barrett', 'Holland Barrett (UK)', 'https://www.hollandandbarrett.com/my-account/login.jsp', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Great-West Life & Annuity Insurance Company', 'Baltimore Deferred Comp (US)', 'https://retirewithbaltimore.gwrs.com/login.do', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Borgata', 'Borgata 401k Savings Plan (US)', 'https://borgata.voyaplans.com/eportal/welcome.do', 1);
@@ -10551,7 +10551,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Essex Bank
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bank of Glen Ullin', 'Bank of Glen Ullin (US)', 'https://secure.fundsxpress.com/start/BGUND', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Doctor''s Associates Inc', 'SUBCARD (UK)', 'https://subcard.subway.co.uk/cardholder/login_reg_uk.html', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Commerce Bank', 'First Commerce Bank (US)', 'https://cibng.ibanking-services.com/EamWeb/Account/Login.aspx?orgId=122_021214082&FIFID=021214082&brand=122_021214082&appId=CeB&FIORG=122', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('HSBC México', 'HSBC (México)', 'https://www.hsbc.com.mx/1/2/!ut/p/c5/hcuxDoIwGEXhZ-EJektL0bEVC39SNQ1IgMV0MIZEwMHo61vjopM545fDBhabw2O8hPu4zOHKOjaoU65JIZWgg8Ea5LLCmtZzlDx6_-VoGvH2euW1ElD89659EdUpm5NNYcTn3pS6krkD0NIWJI1EtrMcJP7c-2qZzuw2HbunTpIXnPcH3Q!!/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('HSBC MÃ©xico', 'HSBC (MÃ©xico)', 'https://www.hsbc.com.mx/1/2/!ut/p/c5/hcuxDoIwGEXhZ-EJektL0bEVC39SNQ1IgMV0MIZEwMHo61vjopM545fDBhabw2O8hPu4zOHKOjaoU65JIZWgg8Ea5LLCmtZzlDx6_-VoGvH2euW1ElD89659EdUpm5NNYcTn3pS6krkD0NIWJI1EtrMcJP7c-2qZzuw2HbunTpIXnPcH3Q!!/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Schwab Wealth Investment Advisory, Inc.', 'Schwab Intelligent Portfolio (US)', 'https://hg.schwab.com/client/#/login?return=%2Fpublic%2Fintelligent%2Fhome.html', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('FOCUS Credit Union', 'FOCUS CU of Wisconsin (US)', 'https://obc.itsme247.com/031/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Comenity LLC', 'Camping World/Good Sam Credit Card (US)', 'https://d.comenity.net/goodsamcampingworld/public/Home.xhtml', 1);
@@ -10627,7 +10627,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Century Ba
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Millbury Savings Bank', 'Millbury Savings Bank (US)', 'https://web1.secureinternetbank.com/pbi_pbi1961/Pbi1961.ashx?RT=211370639&LogonBy=connect3&PRMACCESS=Portfolio', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Progressive National Bank', 'Progressive National Bank (US)', 'https://progressivenational.myebanking.net/#/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('DIRECTV', 'Voya DirecTv 401k plan (US)', 'https://directv401k.voyaplans.com/eportal/welcome.do', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Member''s “FIRST” Community Credit Union', 'Members First Community CU (US)', 'https://www.shareteccu.com/membersfirst/login', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Member''s â€œFIRSTâ€� Community Credit Union', 'Members First Community CU (US)', 'https://www.shareteccu.com/membersfirst/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Benchmark Community Bank', 'Benchmark Community Bank (US)', 'https://www.bcbonline.com/tob/live/usp-core/app/login/consumer', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Commercial National Bank', 'Commercial National Bank(Texarkana) (US)', 'https://ark.secure.fundsxpress.com/start/ARK', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Community & Southern Bank', 'Community & Southern Bank (US)', 'https://www.csbsecurelogin.com/tob/live/usp-core/app/login/consumer', 1);
@@ -10749,7 +10749,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('ntrust Sup
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Colorado National Bank', 'Colorado National Bank (US)', 'https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=coloradonational&bn=10a529fba3291e45&burlid=6cfdf7901adaeb52', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Heartland Retirement Plan Services', 'Heartland Retirement Plan Services (US)', 'https://www.retirementaccountlogin.com/heartland/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Texas Community Bank', 'Texas Community Bank (US)', 'https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=tx-communitybank&bn=83333d179227e28f&burlid=7b6162f59c8f78c5', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Cajamar Caja Rural', 'Cajamar Caja Rural (España)', 'https://www.cajamar.es/es/particulares/#', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Cajamar Caja Rural', 'Cajamar Caja Rural (EspaÃ±a)', 'https://www.cajamar.es/es/particulares/#', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Boutique Collective Investments', 'Boutique Collective Investments (South Africa)', 'https://www.bci-transact.co.za/Webclient/Login/Index.html', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Palmetto First Federal Credit Union', 'Palmetto First FCU (US)', 'https://www.cue-branch.com/pffcu/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Lake Shore Savings', 'Lake Shore Savings (US)', 'https://web1.secureinternetbank.com/pbi_pbi1151/login/222371656', 1);
@@ -10853,7 +10853,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Oriental',
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('UBS Financial Services Inc.', 'UBS One Source - AIG (US)', 'https://onesource.ubs.com/CEFSWebApp/callpage.do?bookCode=AIG&page=login_header_new', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Interstate BancSystem', 'First Interstate Bank(Business) (US)', 'https://secure.firstinterstatebank.com/EBC_EBC1961/EBC1961.ASHX?wci=Process&wce=request&rid=3000&rtn=092901683&rt=092901683&mfa=2', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Farmers Deposit Bank', 'Farmers Deposit Bank (US)', 'https://web13.secureinternetbank.com/PBI_PBI1961/PBI1961.ashx?RT=042101556&LogonBy=connect3&PRMACCESS=Account', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('People’s Bank of Commerce', 'People''s Bank of Commerce (US)', 'https://web17.secureinternetbank.com/PBI_PBI1961/PBI1961.ashx?WCI&rt=123206736&logonby=connect3&PRMaccess=account&Override=true', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Peopleâ€™s Bank of Commerce', 'People''s Bank of Commerce (US)', 'https://web17.secureinternetbank.com/PBI_PBI1961/PBI1961.ashx?WCI&rt=123206736&logonby=connect3&PRMaccess=account&Override=true', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('The Eastern Colorado Bank', 'The Eastern Colorado Bank (US)', 'https://web10.secureinternetbank.com/pbi_pbi1961/Pbi1961.ashx?RT=102104684&LogonBy=connect3&PRMACCESS=Account', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Virginia Community Bank', 'First Virginia Community Bank (US)', 'https://olb.fvcbank.com/LoginAdv.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Security State Bank (ST)', 'Security State Bank (ST) (US)', 'https://www.securitystbk.com/ssb/?page=welcome', 1);
@@ -11078,7 +11078,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('QPCU Limit
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Reading Cooperative Bank', 'Reading Cooperative Bank (US)', 'https://secure.myvirtualbranch.com/readingcoop/signin.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('B&E Ltd', 'Bank of us (Australia)', 'https://secureonline.bankofus.com.au/ibank/SignOn/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Benefit Strategies, LLC', 'Benefit Strategies Ret. Healthcare Reimburs Acct (US)', 'https://benstrat.navigatorsuite.com/Login.aspx?ReturnUrl=%2f', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Grupo Financiero Banorte', 'Banorte (México)', 'https://www.banorte.com/wps/portal/gfb/Home/inicio/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOLdjQwtPIydDbz9XbyNDRw9A01Dg0wC3E1cTIEKIoEKDHAARwNC-sP1o8BKnN0dPUzMfQwM_E3cjQwcLfy8TIJNLY0MPM2gCvBYUZAbYZDpqKgIABLJa1M!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Grupo Financiero Banorte', 'Banorte (MÃ©xico)', 'https://www.banorte.com/wps/portal/gfb/Home/inicio/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOLdjQwtPIydDbz9XbyNDRw9A01Dg0wC3E1cTIEKIoEKDHAARwNC-sP1o8BKnN0dPUzMfQwM_E3cjQwcLfy8TIJNLY0MPM2gCvBYUZAbYZDpqKgIABLJa1M!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Burkes Outlet', 'Burkes Outlet (US)', 'https://d.comenity.net/burkesoutlet/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Copyright 2016 TMB Bank Public Company Limited', 'Thai Military Bank PCL (Thailand)', 'https://www.tmbdirect.com/tmb/kdw1.8.2#_frmIBPreLogin', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Citigroup Inc.', 'Sears credit card Options (US)', 'https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?langId=en_US&siteId=SEARS#signon', 1);
@@ -11104,16 +11104,16 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Oriental F
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Schertz Bank and Trust', 'Schertz Bank and Trust (US)', 'https://web11.secureinternetbank.com/pbi_pbi1961/Pbi1961.ashx?rt=114916103&PRMAccess=Account&LogonBy=connect3&AFC=&User=False&SPTN=297049BAA54E42858F690EFE2F5921F6', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Central Bank in Jefferson City', 'Central bank(Business) (US)', 'https://secure.centralbank.net/business/login/Login.jsp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Tampa Postal Federal Credit Union', 'Tampa Postal FCU (US)', 'https://www.flexteller.net/servlet/com.cmcflex.flexteller.presentation.ActionMultiplexer?Action=ACT0016&CUID=tpf', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Scotia Bank', 'Scotiabank (México)', 'https://www.scotiaweb.com.mx/inverweb/entrada_.asp', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Regional de Monterrey S.A.', 'BanRegio (México)', 'https://ww7.ebanregio.com/index.cfm', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco del Bajío, S.A.', 'Banco Del Bajio Personal Banking (México)', 'https://secure3.bb.com.mx/ingresaBB/segmento=persona', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco del Bajío, S.A.', 'Banco Del Bajio Business Banking (México)', 'https://secure12.bb.com.mx/ingresaBB/segmento=empresa', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco del Bajío, S.A.', 'Banco Del Bajio Government Banking (México)', 'https://secure10.bb.com.mx/ingresaBB/segmento=gobierno', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Scotia Bank', 'Scotiabank (MÃ©xico)', 'https://www.scotiaweb.com.mx/inverweb/entrada_.asp', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Regional de Monterrey S.A.', 'BanRegio (MÃ©xico)', 'https://ww7.ebanregio.com/index.cfm', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco del BajÃ­o, S.A.', 'Banco Del Bajio Personal Banking (MÃ©xico)', 'https://secure3.bb.com.mx/ingresaBB/segmento=persona', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco del BajÃ­o, S.A.', 'Banco Del Bajio Business Banking (MÃ©xico)', 'https://secure12.bb.com.mx/ingresaBB/segmento=empresa', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco del BajÃ­o, S.A.', 'Banco Del Bajio Government Banking (MÃ©xico)', 'https://secure10.bb.com.mx/ingresaBB/segmento=gobierno', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Option Bank', 'First Option Bank (US)', 'https://olb.firstoptionbank.com/Login.aspx?qs=sbmnHQTmD4nofoZvlVaPJA%3d%3d', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Benefit Resource, Inc.', 'Benefit Resources (BRIWeb Participant) (US)', 'https://www.briweb.com/part/part-login.php', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('ABSA BANK', 'ABSA LITE (South Africa)', 'https://ib.absa.co.za/absa-online/login.jsp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Suntrust - Wealth Management System', 'Suntrust - Wealth Management System (US)', 'https://wealth.emaplan.com/suntrust/Default.aspx?suntrust', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Grupo Financiero Banorte', 'Banorte Business Banking (México)', 'https://www.banorte.com/wps/portal/empresas/Home/inicio', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Grupo Financiero Banorte', 'Banorte Business Banking (MÃ©xico)', 'https://www.banorte.com/wps/portal/empresas/Home/inicio', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('FirstRand Bank Limited', 'First National Bank Mobile (South Africa)', 'https://www.fnb.co.za/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('angelbroking.com 2016', 'Angel Broking - Angel Eye (India)', 'https://trade.angelbroking.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Chemung Canal Trust Company', 'Chemung Canal Trust Company - Investments (US)', 'https://services2.sungard.com/idp/CHTTRPWL/?ClientID=WebLinkUI', 1);
@@ -11177,7 +11177,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Brown Form
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Washington National', 'Washington National Insurance Company (US)', 'https://my.washingtonnational.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Pershing LLC', 'NetXInvestor - Quicken (US)', 'https://www.netxinvestor.com/web/netxinvestor/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Voya Services Company', 'Baxalta Savings Plans (US)', 'https://my.voya.com/voyasso/index.html?domain=baxaltaiip.voya.com#/login-pweb', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('El Banco Nacional de México', 'Banamex Bancanet (México)', 'https://bancanet.banamex.com/MXGCB/JPS/portal/Index.do', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('El Banco Nacional de MÃ©xico', 'Banamex Bancanet (MÃ©xico)', 'https://bancanet.banamex.com/MXGCB/JPS/portal/Index.do', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Sydney Credit Union Limited', 'SCU More Generous Banking (Australia)', 'https://internetbanking.scu.net.au/mvpscu/signon/login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Schwab Retirement Technologies', 'Financial Decisions - Participant (US)', 'https://asp.schwabrt.com/FND/MyMoney/aspx/community/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Fremont National Bank - Trust', 'Fremont National Bank - Trust (US)', 'https://clientpoint.fisglobal.com/tdcb/main/UserLogon?bankNumber=ng&subProduct=Fremont', 1);
@@ -11351,7 +11351,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Carter Val
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('National Bank of Samoa', 'National Bank of Samoa (Samoa)', 'https://ezinet.nbs.ws/B001/banking.jsp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('VSP', 'VSP (US)', 'https://www.vsp.com', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Kaiser Permanente', 'Kaiser Permanente (US)', 'https://healthy.kaiserpermanente.org/sign-on#/signon', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Scotia Bank', 'ScotiaCard Mi Pogo (México)', 'https://sites.scotiabank.com.mx/scotianomina/entrada.asp?_ga=1.37878820.623919428.1466516290', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Scotia Bank', 'ScotiaCard Mi Pogo (MÃ©xico)', 'https://sites.scotiabank.com.mx/scotianomina/entrada.asp?_ga=1.37878820.623919428.1466516290', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Peninsula Federal Credit Union', 'Peninsula FCU - Credit Card (US)', 'https://www.ezcardinfo.com/#/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('RBL Bank Ltd', 'RBL Bank Rewards (India)', 'https://rewards.rblbank.com/', 0);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Brown Capital Management, LLC', 'Brown Capital Management- Mutual Fund (US)', 'https://www3.financialtrans.com/tf/FANWeb?tx=Disclaim&cz=700110117142213', 1);
@@ -11360,7 +11360,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Greenville
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Semper Capital Management, L.P.', 'Semper Capital - REIT (US)', 'https://starportal.phxa.com/SCM/login.aspx?ReturnUrl=%2fscm', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Barclays', 'Barclays Mobile (UK)', 'https://bank.barclays.co.uk/olb/auth/MobiLoginLink.action?error=505&linktoken=8N1PFQXK2ZJNTGK67PEN7XRSE95CZ59P&redirect=https://bank.barclays.co.uk/olb/auth/MobiLoginLink.action', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Terra Capital Partners', 'TERRA - Investor Login (US)', 'https://www.taxacs.com/terra/login.asp', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Azteca', 'Banco Azteca (México)', 'http://www.bancoazteca.com.mx/PortalBancoAzteca/inicio.do', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Azteca', 'Banco Azteca (MÃ©xico)', 'http://www.bancoazteca.com.mx/PortalBancoAzteca/inicio.do', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bryant Bank', 'Bryant Bank (US)', 'https://online.bryantbank.com/BryantBankOnline_40/uux.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('TBank', 'T Bank(TX) (US)', 'https://olb.tbank.com/LoginAdv.aspx?qs=yX9kMC9dy6Xmxp8jVNQ3hg%3d%3d', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('New England Financial', 'New England Financial (US)', 'https://nef.gwrs.com/login.do', 1);
@@ -11642,14 +11642,14 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Moran Knob
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Providence', 'Providence Health & Services - Road2Retirement (US)', 'https://road2retirement.org/View/Signin.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Willamette Valley Bank', 'Willamette Valley Bank (US)', 'https://web15.secureinternetbank.com/pbi_pbi1961/Pbi1961.ashx?rt=123206859&PRMAccess=Account&LogonBy=connect3&AFC=&User=False&SPTN=3B673A806D9D4D6A890EE36F44171D59', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Argent Trust Company - Client Point', 'Argent Trust Company - Client Point (US)', 'https://clientpoint.fisglobal.com/tdcb/main/UserLogon?bankNumber=Q7&subProduct=ATNA#', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankaool', 'Bankaool (México)', 'https://banca.bankaool.com/bel/login', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankaool', 'Bankaool (MÃ©xico)', 'https://banca.bankaool.com/bel/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Citizens First Bank', 'Citizens First Bank (FL)(Business) - Bank (US)', 'https://mycitizensfirst.btbanking.com/onlineserv/CM/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('The Peoples Bank', 'The Peoples Bank (SC) - Bank (US)', 'https://web13.secureinternetbank.com/PBI_PBI1961/PBI1961.ashx?RT=053207533&LogonBy=connect3&PRMACCESS=Account', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bell Potter Securities Limited', 'Bell Potter (Australia)', 'http://www.bellpotter.com.au/ca4/access/Default.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('JBWere Limited', 'JB Were (Australia)', 'https://my.jbwere.com.au/jbwere/portal/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('ASB Bank Limited', 'ASB Online Sharetrading (New Zealand)', 'https://online.asb.co.nz/auth/authn?al=&goto=https://online.asb.co.nz/ost/&fm=header:login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Southwest Airlines Retirement', 'Southwest Airlines Empower Retirement (US)', 'https://freedomtoretire.empower-retirement.com/participant/#/login?accu=SWA', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('El Banco Nacional de México', 'Banamex Aquí (México)', 'https://www.banamexaqui.banamex.com/BanamexAqui/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('El Banco Nacional de MÃ©xico', 'Banamex AquÃ­ (MÃ©xico)', 'https://www.banamexaqui.banamex.com/BanamexAqui/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Summit Benefit Solutions', 'SunGard - Retirement - Participant (US)', 'https://www.benefitwebaccess.net/retire/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('JPMorgan Chase & Co', 'JP Morgan International Private Banking Online (UK)', 'https://jpmpb001.jpmorgan.com/prelogin/index.jsp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Prudent Corporate Advisory Services Ltd', 'Fundz Bazar (India)', 'https://www.fundzbazar.com/signin', 1);
@@ -12121,7 +12121,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('The Trust 
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Fortigent, LLC.', 'Berman Capital Advisors - Client Access (US)', 'https://berman.clientaccessportal.com/Login/Index?ReturnUrl=%2f', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('ASC Trust', 'ASC Trust (Guam)', 'https://www.retirementlogin.net/ascpac/default.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('AmeriServ Financial', 'AmeriPlan Online (US)', 'https://www.retirementlogin.com/ameriserv/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES (' People''s United Bank, N.A', 'People''s United Bank - Retirement iPlan (US)', 'https://www.yourplanaccess.net/iplan/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Â People''s United Bank, N.A', 'People''s United Bank - Retirement iPlan (US)', 'https://www.yourplanaccess.net/iplan/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Fidelity Brokerage Services LLC', 'Nike NetBenifits (US)', 'https://nb.fidelity.com/public/nb/nike/home', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Firstrust Bank', 'FirstTrust Bank Mortgage (US)', 'https://firstrust.loanadministration.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Wesleyan Investment Foundation', 'Wesleyan Investment Foundation (US)', 'https://www.netteller.com/WIFONLINE/login.cfm', 1);
@@ -12131,7 +12131,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('AurGroup F
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Peoples Bank', 'First Peoples Bank(GA) (US)', 'https://olb.firstpeoplesbank.com/LoginAdv.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Empower Credit Union', 'Empower CU (US)', 'https://www.netteller.com/login2008/Authentication/Views/Login.aspx?returnUrl=%2fempowercu', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('CIT Bank', 'CIT Bank - Mortgage (US)', 'https://citbank.customercarenet.com/ccn/citbank/mymortgage.html#HOME-C', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES (' Community Bank Of Elmhurst', 'Community Bank of Elmhurst - Consumer (US)', 'https://cibng.ibanking-services.com/EamWeb/Account/Login.aspx?orgId=328_071925376&FIFID=071925376&brand=328_071925376&appId=CeB&FIORG=328', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Â Community Bank Of Elmhurst', 'Community Bank of Elmhurst - Consumer (US)', 'https://cibng.ibanking-services.com/EamWeb/Account/Login.aspx?orgId=328_071925376&FIFID=071925376&brand=328_071925376&appId=CeB&FIORG=328', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Flint Area School Employees Credit Union', 'Flint Area School Employees CU (US)', 'https://www.netbranch.app.fiserv.com/fasecu/default.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('River Valley Credit Union (OH)', 'River Valley CU (OH) (US)', 'https://secure.srtg.net/RiverValley/SignOn/Logon.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Sunnyside Federal Savings and Loan Association', 'Sunnyside Federal Savings & Loan Association (US)', 'https://secure.myvirtualbranch.com/sunnysidefederal/SignIn.aspx', 1);
@@ -12144,7 +12144,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('CoastalSta
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Diamond Valley Federal Credit Union', 'Diamond Valley FCU (US)', 'https://www.dvfcuonlinebranch.org/tob/live/usp-core/app/initialLogin', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Sperry Federal Credit Union', 'Sperry Associates FCU (US)', 'https://www.sperryfcu.org/tob/live/usp-core/app/initialLogin', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Allegacy Investment Group - Portfolio View', 'Allegacy Investment Group - Portfolio View (US)', 'https://mpv.orcasnet.com/login/rcf', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES (' Altana Federal Credit Union', 'Altana FCU (US)', 'https://www.netteller.com/altanafcu/login.cfm', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Â Altana Federal Credit Union', 'Altana FCU (US)', 'https://www.netteller.com/altanafcu/login.cfm', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Union Bank of Mena', 'Union Bank of Mena (US)', 'https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=unionbankofmena&bn=d792ee01fb002dd6&burlid=7458243a85896518', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('1st MidAmerica Credit Union', '1st MidAmerica CU (US)', 'https://www.ea.financial-net.com/vbsts/Login/IALogin.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Thomson Reuters', 'Thomson Reuters - Voya (US)', 'https://my.voya.com/voyasso/index.html?domain=tr.voya.com#/login-pweb', 1);
@@ -12276,7 +12276,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Chevy Chas
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Australia and New Zealand Banking Group Limited', 'ANZ corporate bank (Australia)', 'https://transtasman.online.anz.com/client/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('National Bank and Trust Investments', 'Superior National Bank and Trust - Investments (US)', 'https://services2.sungard.com/idp/0429A/?ClientID=PALUI', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Inland Revenue', 'Student Loan (New Zealand)', 'http://www.ird.govt.nz/online-services/myir-secure-online-services.html', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('iberCaja', 'Ibercaja Empresas (Espana) - Tarjeta de Credito (España)', 'https://www1.ibercajadirecto.com/ibercaja/asp/Login.asp#', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('iberCaja', 'Ibercaja Empresas (Espana) - Tarjeta de Credito (EspaÃ±a)', 'https://www1.ibercajadirecto.com/ibercaja/asp/Login.asp#', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Media Super Ltd', 'Mediasuper Investments (Australia)', 'https://secure.superfacts.com/public/mediasuper/home.tpz', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Baraga County Federal CU', 'Baraga County Federal CU (US)', 'https://www.shareteccu.com/baraga/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('WALLIS STATE BANK', 'Wallis State Bank (US)', 'https://web11.secureinternetbank.com/PBI_PBI1151/Login/113113392', 1);
@@ -12338,10 +12338,10 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Manhattan 
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Desktop Broker', 'Desktop Broker (Australia)', 'https://www.desktopbroker.com.au/adviser/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('credit union central', 'CU Central bank (New Zealand)', 'https://www.accessweb.co.nz/central/ebank.jsp?main=login.jsp', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Servus Credit Union', 'Servus CU Business Banking (Canada)', 'https://banking.servus.ca/retail/Security_Login?src=mDetect&js=true&sw=1920', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Unicaja', 'Unicaja Particulares (Espana) - Targeta de Credito (España)', 'https://www.unicajabanco.es/PortalServlet?pag=1110902071492&menu0=particulares', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Unicaja', 'Unicaja Particulares (Espana) - Targeta de Credito (EspaÃ±a)', 'https://www.unicajabanco.es/PortalServlet?pag=1110902071492&menu0=particulares', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Illini Bank', 'Illini Bank (US)', 'https://onlinebanking.illinibank.com/IlliniBankOnline_41/UUX.aspx#/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Four Points Federal Credit Union', 'Four Points FCU (US)', 'https://online.fourpointsfcu.org/servlet/SLogin?requestType=vhtml&template=/c/login/sloginsc.vm&login=true&defaultLanguage=en', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('OPEN BANK', 'Openbank (Espana) - Targeta de Credito (España)', 'https://www.openbank.es/es/', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('OPEN BANK', 'Openbank (Espana) - Targeta de Credito (EspaÃ±a)', 'https://www.openbank.es/es/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('StockYardsBank', 'Stock Yards Bank - Inv (US)', 'https://onlinebanking.syb.com/sybtconline/Uux.aspx#/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('UBS Financial Services', 'UBS One Source (RRC) (US)', 'https://onesource.ubs.com/CEFSWebApp/callpage.do?bookCode=RRC&page=login_header_new', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Gateway Credit Union Limited', 'Gateway Bank (Australia)', 'https://digital.gatewaycu.com.au/', 1);
@@ -12385,7 +12385,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Field & Ma
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Field & Main Bank', 'Field & Main Bank ( Investment and trust ) (US)', 'https://services2.sungard.com/idp/0077A/?ClientID=PALUI&RelayState=https://pal.sungard.com/Client/Default.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('M&T Bank', 'MandT Bank (Commercial) (US)', 'https://commercialservices.mandtbank.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Rate Setter', 'Rate Setter (Investments) (UK)', 'https://members.ratesetter.com/login.aspx', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('BBVA SA', 'Catalunya Caixa Empresas (España)', 'https://www.bbvanetcash.com/local_kyop/KYOPSolicitarCredenciales.html', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('BBVA SA', 'Catalunya Caixa Empresas (EspaÃ±a)', 'https://www.bbvanetcash.com/local_kyop/KYOPSolicitarCredenciales.html', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Wa Local Super', 'Wa Super Investment (Australia)', 'https://online.wasuper.com.au/aol/index.html#Login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Standard Register Federal Credit Union', 'Standard Register Federal CU (US)', 'https://s110.lanxtra.com/servlet/SLogin?template=/c/login/sloginsc.vm&login=true&defaultLanguage=en', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Fortress Partners', 'Fortress Partners (US)', 'https://veridium.atweb.us/#/login/investor', 1);
@@ -12429,7 +12429,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('My retirem
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Folio First', 'Folio First (US)', 'https://identity.foliofirst.com/identity/login?service=https%3A%2F%2Fverification.foliofirst.com%3A443%2Fverification%2Flogin%3Fservice%3Dhttps%253A%252F%252Foauth.foliofirst.com%252Foauth_authorization%252Flogin%252Fcas', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Aldermore 2017', 'Aldermore Business Bank (UK)', 'https://secure.aldermorebusinesssavings.co.uk/corporate', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Gerber/Taylor Capital Advisors', 'Gerber Taylor (US)', 'https://www.gerbertaylor.com/users/sign_in?', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Kutxabank', 'Kutxabank Empresas (Espana) - Targeta de Credito (España)', 'https://kutxa.kutxabank.es/cs/Satellite/kb/es/negocios_y_empresas', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Kutxabank', 'Kutxabank Empresas (Espana) - Targeta de Credito (EspaÃ±a)', 'https://kutxa.kutxabank.es/cs/Satellite/kb/es/negocios_y_empresas', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Metairie Bank', 'Metairie Bank (US)', 'https://www2.bankdataprocessing.com/MetairieBank/LoginAdv.aspx?qs=lzvUHNxjSfmbBuARmOWnlQzA8p74yYdC', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Jonesburg State Bank', 'Jonesburg State Bank (US)', 'https://www.netteller.com/login2008/Authentication/Views/Login.aspx?returnUrl=%2fjonesburg', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('UBS Financial Services Inc.', 'UBS one source (Floor & Decor) (US)', 'https://onesource.ubs.com/CEFSWebApp/callpage.do?bookCode=FND&page=login_header_new', 1);
@@ -12508,7 +12508,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('PALCO Fede
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Mid Atlantic Farm Credit', 'Mid Atlantic FC (US)', 'https://online.farmcredit.net/accounts/?ACA=31', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('SAMS West', 'Sam''s Club Consumer Credit Online Account (US)', 'https://www.synchronycredit.com/eSecurity/Login/login.action?clientId=sams&accountType=generic&langId=en', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Woodstone Credit Union', 'Woodstone CU (US)', 'https://woodstone.onlineaccounts.org/HBNetRD/App/signon/', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Credit Agricole', 'Crédit Agricole Ile-de-France (France)', 'https://www.paris-enligne.credit-agricole.fr/g1/ssl/identification/nav1/acc_ide1_1.htm', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Credit Agricole', 'CrÃ©dit Agricole Ile-de-France (France)', 'https://www.paris-enligne.credit-agricole.fr/g1/ssl/identification/nav1/acc_ide1_1.htm', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banque populaire', 'Banque Populaire Aquitaine (France)', 'https://www.ibps.sudouest.banquepopulaire.fr/cyber/ibp/ate/portal/internet.html', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('American Momentum Bank', 'American Momentum Bank (US)', 'https://cm.netteller.com/login2008/Authentication/Views/Login.aspx?fi=amomentumbank&bn=f27bf6cbcd806322&burlid=5610bcbb8ca9519d', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Sno Falls Credit Union', 'Sno Falls CU (US)', 'https://snofallscu.financialhost.org/Login/UserName', 1);
@@ -12654,7 +12654,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Benchmark 
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Itasca Bank & Trust Co', 'Itasca Bank & Trust Co (US)', 'https://pib.secure-banking.com/60261002/PassmarkSignIn.faces', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Liberty Bank For Savings', 'Liberty Bank For Savings (US)', 'https://web2.secureinternetbank.com/PBI_PBI1151/Login/271071004', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Peoples Bank & Trust Company', 'Peoples Bank (KS, NM) (US)', 'https://www.netteller.com/login2008/Authentication/Views/Login.aspx?returnUrl=%2fBANKINGUNUSUAL%2flogin.cfm', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES (' Luana Savings Bank', 'Luana Savings Bank (US)', 'https://online.luanasavingsbank.com/LuanaSavingsBankOnline_42/uux.aspx#/login', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Â Luana Savings Bank', 'Luana Savings Bank (US)', 'https://online.luanasavingsbank.com/LuanaSavingsBankOnline_42/uux.aspx#/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('AG Financial Solutions', 'AG Financial Solutions (US)', 'https://secure.agfinancial.org/cp/do/user/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Captain401', 'Captain401 Investment (US)', 'https://captain401.com/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('SeaComm FCU', 'SeaComm FCU (US)', 'https://www.netteller.com/login2008/Authentication/Views/Login.aspx?returnUrl=%2fseacomm', 1);
@@ -12693,7 +12693,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('American A
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Sterling Bank and Trust', 'Sterling Bank and Trust (US)', 'https://secure56.onlineaccess1.com/sterlingbankandtrustonline_41/Uux.aspx#/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Associated Healthcare Credit Union', 'Associated Healthcare CU (US)', 'https://www.ea.financial-net.com/vbsts/login/ialogin.aspx?returnurl=%2fvbsts%2f%3fwa%3dwsignin1.0%26wtrealm%3dhttps', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bank of Galesville', 'Bank of Galesville (US)', 'https://ibank.pcs-sd.net/onlinebanking5/login.r?t-bank=91803591', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES (' Jefferson Bank & Trust Company', 'Jefferson Bank and Trust - Personal (US)', 'https://www.netteller.com/jbtdirect/login.cfm', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Â Jefferson Bank & Trust Company', 'Jefferson Bank and Trust - Personal (US)', 'https://www.netteller.com/jbtdirect/login.cfm', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Family Security Credit Union', 'Family Security CU (US)', 'https://www.netteller.com/login2008/Authentication/Views/Login.aspx?returnUrl=%2fmyfscu', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bankers Life', 'Bankers Life (US)', 'https://my.bankerslife.com/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Cenla Federal Credit Union', 'Cenla FCU (US)', 'https://www.ea.financial-net.com/vbsts/Login/IALogin.aspx?ReturnUrl=%2fvbsts%2f%3fwa%3dwsignin1.0%26wtrealm%3dhttps%253a%252f%252fwww.financial-net.com%252f%26wctx%3drm%253d0%2526id%253dpassive%2526ru%253d%25252fcenla%25252fsecurity%25252fOlbCmdSmn000%252', 1);
@@ -12771,12 +12771,12 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Michigan M
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First Federal Savings & Loan', 'First Federal Savings and Loan (US)', 'https://banking.ffsg.net/servlet/SLogin?requestType=vhtml&template=/c/login/sloginsc.vm&login=true&defaultLanguage=en', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Five Country Credit Union', 'Five County CU (US)', 'https://fivecounty.cuview.net/User/AccessSignin/Start', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('UBS one source', 'UBS One source (Bed Bath & Beyond) (US)', 'https://onesource.ubs.com/CEFSWebApp/callpage.do?bookCode=BBBY&page=login_header_new', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES ('Crédit Agricole', 'Credit agricole Toulouse 31 (France)', 'https://www.toulousain-g3-enligne.credit-agricole.fr/stb/entreeBam', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('CrÃ©dit Agricole', 'Credit agricole Toulouse 31 (France)', 'https://www.toulousain-g3-enligne.credit-agricole.fr/stb/entreeBam', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First State Bank & Trust Company', 'Fusion eBanking (US)', 'https://secure8.onlineaccess1.com/fsbtconline_41/Uux.aspx#/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Total Administrative Services Corporation (TASC)', 'TASC(HSA) (US)', 'https://tascparticipant.lh1ondemand.com/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Seacoast Commerce Bank', 'Seacoast Commerce Bank(Business Bank) (US)', 'https://web10.secureinternetbank.com/ebc_ebc1961/ebc1961.ashx?wci=process&wce=request&rid=3000&rtn=122243619&rt=122243619&mfa=2&tid=00139', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Barcons Federal Credit Union', 'Barcons FCU (US)', 'https://www.shareteccu.com/barcons', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES (' Newton Federal Bank', 'Newton Federal Bank (Business) (US)', 'https://web2.secureinternetbank.com/EBC_EBC1961/EBC1961.ashx?wci=process&wce=request&rid=3000&rtn=261170371&rt=261170371&mfa=2', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Â Newton Federal Bank', 'Newton Federal Bank (Business) (US)', 'https://web2.secureinternetbank.com/EBC_EBC1961/EBC1961.ashx?wci=process&wce=request&rid=3000&rtn=261170371&rt=261170371&mfa=2', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('GHS Federal Credit Union', 'GHS FCU (US)', 'https://online.ghsfcu.com/servlet/SLogin?requestType=vhtml&template=/c/login/sloginsc.vm&login=true&defaultLanguage=en', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('PayFlex Systems USA, Inc', 'Partners For Health (PayFlex) (US)', 'https://stateoftn.payflexdirect.com/EmployeeLogin.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Transamerica', 'Transamerica Financial life Insurance (US)', 'https://www.tflic.com/portal/public/tflic/privateHome/home/', 1);
@@ -12844,7 +12844,7 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('Employee B
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('The Farmers and Merchants Bank', 'Farmers and Merchants Bank(MD) (US)', 'https://pib.secure-banking.com/60561001/PassmarkSignIn.faces', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Associated Banc-Corp', 'Associated Bank (Health Savings Account) (US)', 'https://client.hsaplus.associatedbank.com/Login.aspx?ReturnUrl=%2f', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('First National Bank of Muscatine', 'First National Bank of Muscatine (US)', 'https://cibng.ibanking-services.com/EamWeb/Account/Login.aspx?orgId=661_073900755&FIFID=073900755&brand=661_073900755&appId=CeB&FIORG=661', 1);
-INSERT INTO institution (name, display_name, url, is_active) VALUES (' New Peoples Bankshares Inc', 'New Peoples Bank (US)', 'https://vault.newpeoplesbank.com/PBI_PBI1151/Login/051408897', 1);
+INSERT INTO institution (name, display_name, url, is_active) VALUES ('Â New Peoples Bankshares Inc', 'New Peoples Bank (US)', 'https://vault.newpeoplesbank.com/PBI_PBI1151/Login/051408897', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('tastyworks', 'tastyworks (US)', 'https://trade.tastyworks.com/tw/login', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Bank of Central Florida', 'Bank of Central Florida (Personal Banking) (US)', 'https://cibng.ibanking-services.com/EamWeb/Account/Login.aspx?orgId=827_063116261&FIFID=063116261&brand=827_063116261&appId=CeB&FIORG=827', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('IG Group', 'IG Bank (UK)', 'https://www.ig.com/uk/login', 1);
@@ -13073,3 +13073,17 @@ INSERT INTO institution (name, display_name, url, is_active) VALUES ('CS Credit 
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Emery Federal Credit Union', 'Emery Federal Credit Union (US)', 'https://emery.ns3web.org/', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('The Cottonport Bank', 'The Cottonport Bank (US)', 'https://www2.bankdataprocessing.com/CottonportBank/Login.aspx', 1);
 INSERT INTO institution (name, display_name, url, is_active) VALUES ('Banco Bradesco', 'Bradesco Prime (Brazil)', 'https://banco.bradesco/html/prime/index.shtm', 1);
+
+CREATE TABLE IF NOT EXISTS users (
+  id           SERIAL PRIMARY KEY,
+  userid       VARCHAR(10),
+  display_name VARCHAR(255),
+  permission   VARCHAR(8)
+);
+
+INSERT INTO users (userid, display_name, permission) VALUES ('user1', 'Normal user 1', 'user');
+INSERT INTO users (userid, display_name, permission) VALUES ('user2', 'Normal user 2', 'user');
+INSERT INTO users (userid, display_name, permission) VALUES ('user3', 'Normal user 3', 'user');
+INSERT INTO users (userid, display_name, permission) VALUES ('user4', 'Normal user 4', 'user');
+INSERT INTO users (userid, display_name, permission) VALUES ('admin1', 'Admin user 1', 'admin');
+INSERT INTO users (userid, display_name, permission) VALUES ('user1', 'Admin user 1', 'admin');

@@ -1,12 +1,24 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/tx-interview?verifyServerCertificate=false&useSSL=false&requireSSL=false
-    username: root
+    url: jdbc:mysql://localhost:3306/txinterview?verifyServerCertificate=false&useSSL=false&requireSSL=false
+    username: txuser
     password: password
     driverClassName: com.mysql.jdbc.Driver
   jpa:
     hibernate:
       ddl-auto: validate
+    properties:
+      hibernate:
+        generate_statistics: false
+        format_sql: true
+        show-sql: true
 endpoints:
   flyway:
-    enabled: true
+    enabled: true    
+
+logging:
+  level:
+    org:
+      hibernate:
+        stat: debug
+        type: trace     

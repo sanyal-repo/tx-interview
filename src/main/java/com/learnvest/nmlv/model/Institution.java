@@ -41,7 +41,7 @@ public class Institution {
     return url;
   }
 
-  public Boolean getActive() {
+  public Boolean getIsActive() {
     return isActive;
   }
 
@@ -49,6 +49,10 @@ public class Institution {
     return new Institution.Builder();
   }
 
+  public void setIsActive(Boolean active) {
+	    this.isActive = active;
+	  }
+  
   public static final class Builder {
 
     private Long id;
