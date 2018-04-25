@@ -31,3 +31,17 @@ Feel free to update the database (via Flyway migrations) and/or include any libr
 
 ### How to Submit
 Please send us your source code by email or online repository.
+
+###
+4/25/2018 Anupam Sanyal
+These are the sample URIs:
+1. Allows the front-end to search for an active financial institution.
+* Exact Match -- localhost:8080/institutions/?search=name==MCI
+* Partial Match -- localhost:8080/institutions/?search=name:credit
+
+2. Allows an administrator to activate and deactivate an institution from being included in the
+ search endpoint.
+ localhost:8080/institutions/7/isActive=0&username=admin1
+ 
+ New table created to store user admin privileges: users
+ 
