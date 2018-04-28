@@ -54,10 +54,10 @@ public class InstitutionController {
 			@RequestParam(value = "isActive") int active, @RequestParam(value = "username") String username) {
 
 		Optional<Institution> inst = Optional.of(institutionService.getInstitution(instId));
-		inst.orElseThrow(IllegalArgumentException::new);
+		inst.orElseThrow(() -> new IllegalArgumentException(String.format("Institution %s does not exist", instId) ));
 
 		Optional<User> user = Optional.of(users.findByuserid(username)).filter(u -> u.isAdmin());
-		user.orElseThrow(IllegalArgumentException::new);		
+		user.orElseThrow(() -> new IllegalArgumentException(String.format("User %s not allowed to change status", username) ));		
 
 		return institutionService.save(inst.get());
 

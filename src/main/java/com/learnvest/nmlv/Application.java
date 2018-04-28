@@ -23,8 +23,11 @@ public class Application implements CommandLineRunner  {
   }
   @Override
   public void run(String... args) throws Exception {
-
-		logger.info("Institution id 38 -> {}", repository.findById(38L).getName());
-		logger.info("User permission --> {}", users.findById(5L).isAdmin());
+	    logger.info("----------------------------------------------------");
+	    logger.info("APPLICATION START....");
+	    logger.info("Institution list length -> {}", repository.findAll().toArray().length);
+		//logger.info("Institution id 38 -> {}", repository.findById(38L).getName());
+		//logger.info("User permission --> {}", users.findById(5L).isAdmin());
+	    logger.info("----------------------------------------------------");
   }
 }

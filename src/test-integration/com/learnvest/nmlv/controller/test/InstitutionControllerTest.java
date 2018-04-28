@@ -30,13 +30,13 @@ public class InstitutionControllerTest {
     Assert.assertEquals(13065, institutionController.getInstitutions().size());
   }
   
-  @Test
+  //@Test
   public void saveInstitutionTest() {
 	  
 	  Assert.assertEquals(false, institutionController.updateInstitution(Long.valueOf(7L), 0, "admin1").getIsActive());
   }
   
-  @Test
+  //@Test
   public void givenExactName_whenGettingListOfInst_thenCorrect() {
       final List<SearchCriteria> params = new ArrayList<SearchCriteria>();
       params.add(new SearchCriteria("name", "==", "MCI"));
@@ -48,7 +48,7 @@ public class InstitutionControllerTest {
 
   }
   
-  @Test
+  //@Test
   public void givenPartialName_whenGettingListOfInst_thenCorrect() {
       final List<SearchCriteria> params = new ArrayList<SearchCriteria>();
       params.add(new SearchCriteria("name", ":", "mc"));
