@@ -1,8 +1,10 @@
 package com.learnvest.nmlv.model;
 
-import com.learnvest.nmlv.util.SearchCriteria;
 import org.springframework.stereotype.Repository;
+
 import com.learnvest.nmlv.model.Institution;
+import com.learnvest.nmlv.util.SearchCriteria;
+
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 import javax.persistence.criteria.CriteriaBuilder;
@@ -48,15 +50,7 @@ public class InstitutionDaoHelper  {
         }
         
         
-        query.where(predicate);        
-        
-        
-//        CriteriaQuery<Pet>q = cb.createQuery(Pet.class);
-//        Metamodel m = em.getMetamodel();
-//        EntityType<Pet> Pet_ = m.entity(Pet.class);
-//        Root<Pet> pet = cq.from(Pet.class);
-//        cq.where(cb.equal(pet.get(Pet_.name), "Fido")
-//            .and(cb.equal(pet.get(Pet_.color), "brown");
+        query.where(predicate);               
 
         return entityManager.createQuery(query).getResultList().
         		stream().

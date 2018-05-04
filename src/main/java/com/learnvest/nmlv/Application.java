@@ -7,6 +7,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+import com.learnvest.nmlv.lucene.IndexBuild;
 import com.learnvest.nmlv.model.InstitutionDao;
 import com.learnvest.nmlv.model.UserDao;
 
@@ -16,7 +17,8 @@ public class Application implements CommandLineRunner  {
   InstitutionDao repository;
   @Autowired
   UserDao users;
-  
+  @Autowired
+  IndexBuild ib;
   private Logger logger = LoggerFactory.getLogger(this.getClass());
   public static void main(String args[]) {
     SpringApplication.run(Application.class);
@@ -25,9 +27,10 @@ public class Application implements CommandLineRunner  {
   public void run(String... args) throws Exception {
 	    logger.info("----------------------------------------------------");
 	    logger.info("APPLICATION START....");
-	    logger.info("Institution list length -> {}", repository.findAll().toArray().length);
+	    //logger.info("Institution list length -> {}", repository.findAll().toArray().length);
 		//logger.info("Institution id 38 -> {}", repository.findById(38L).getName());
 		//logger.info("User permission --> {}", users.findById(5L).isAdmin());
+	    ib.createIndex();
 	    logger.info("----------------------------------------------------");
   }
 }
